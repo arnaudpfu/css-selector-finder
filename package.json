@@ -1,0 +1,25 @@
+{
+  "name": "css-selector-finder",
+  "version": "1.0.0",
+  "description": "Find a CSS Selector in a page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnaudpfu/css-selector-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnaudpfu/css-selector-finder/issues"
+  },
+  "homepage": "https://github.com/arnaudpfu/css-selector-finder#readme",
+  "dependencies": {
+    "specificity": "^0.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
